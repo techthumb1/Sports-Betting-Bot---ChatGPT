@@ -1,1 +1,1 @@
-# Sports-Betting-Bot-ChatGPT
+# Sports Betting Bot ChatGPT
